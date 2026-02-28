@@ -32,6 +32,7 @@ I enjoy turning ideas into working applications and continuously improving my te
 - 🧠 Image Classification Model
 - 🍔 Food Ordering Android Application
 - 🚀 2D Space Battle Saga Game
+- 🌦️ Real-Time Weather App
 - 🔬 AI & Software Development Experiments
 
 ---
