@@ -41,8 +41,6 @@ I enjoy turning ideas into working applications and continuously improving my te
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ChathuminiAththanayake&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ChathuminiAththanayake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
